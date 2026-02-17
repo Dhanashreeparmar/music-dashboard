@@ -2,10 +2,10 @@ import React from 'react'
 import { Compass, Disc3, Library, UserRound } from 'lucide-react'
 
 const navItems = [
-  { label: 'Explore', icon: Compass },
-  { label: 'Albums', icon: Library },
-  { label: 'Genres', icon: Disc3 },
-  { label: 'Artist', icon: UserRound },
+  { label: 'Trending Songs', icon: Compass },
+  
+  { label: 'New Releases', icon: Disc3 },
+  { label: 'Popular Artists', icon: UserRound },
 ]
 
 const Sidebar = () => {
