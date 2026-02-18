@@ -1,7 +1,7 @@
-import MusicDashboard from './components/MusicDashboard'
+import ZeptoPage from './components/ZeptoPage'
 
 function App() {
-  return <MusicDashboard />
+  return <ZeptoPage />
 }
 
 export default App
